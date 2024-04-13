@@ -2,7 +2,7 @@
 
 JavaScript is one of the most important technologies in Web Development. Therefore my goal is to keep improving my knowledge and understanding of it in order to become a better JavaScript Developer. Writing articles will definitely help me to better understand topics I'm learning, but also it will help me to improve my writing skills.
 
-Beside Gist, I will publish my articles on [Hashnode](https://amertricic.hashnode.dev/) platform.
+In addition to writing my articles on Gist, I will publish my articles on [Hashnode](https://amertricic.hashnode.dev/) platform.
 
 ## Articles
 - [Prototypes](https://gist.github.com/amerrika/6e94e272ab8b4eed09cab51024aa84e0)
